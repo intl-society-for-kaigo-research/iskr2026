@@ -10,7 +10,7 @@ book:
 
 format:
   html:
-    theme: cyborg
+    theme: journal
     css: styles.css
     toc: true
     number-depth: 2
