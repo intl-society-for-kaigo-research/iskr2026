@@ -2,7 +2,7 @@ project:
   type: book
 
 book:
-  title: "iskr2025"
+  title: "iskr2026"
   chapters:
       - index.qmd
       - about.qmd
@@ -14,20 +14,3 @@ format:
     css: styles.css
     toc: true
     number-depth: 2
-  pdf:
-    pdf-engine: xelatex
-    documentclass: bxjsbook
-    classoption: oneside,xelatex,ja=standard
-    output-file: "iskr2025"
-    output-ext:  "pdf"
-    in_header:  tex_preamble.tex
-    after_body: tex_after.tex
-    number-depth: 2
-  epub:
-    cover-image: cover.png
-    output-file: "iskr2025"
-    output-ext:  "epub"
-    number-depth: 2
-
-
-
