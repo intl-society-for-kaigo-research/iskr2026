@@ -13,7 +13,7 @@ book:
 
 format:
   html:
-    theme: journal
+    theme: quartz
     css: styles.css
     toc: true
     number-depth: 2
