@@ -17,3 +17,7 @@ format:
     css: styles.css
     toc: true
     number-depth: 2
+
+website:
+  site-url: "https://intl-society-for-kaigo-research.github.io/iskr2026/"
+
