@@ -1,5 +1,8 @@
 ---
-title: "iskr2025"
+title: "iskr2026"
+date: last-modified
+resources:
+  - .nojekyll
 ---
 
 [Join ISKR](https://gkb.jp/s/iskr/application) | [ISKR に入会](https://gkb.jp/s/iskr/application)
