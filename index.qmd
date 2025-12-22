@@ -49,11 +49,12 @@ Anmerkung: Diese Organisation steht nicht in Verbindung mit kooperierenden Forsc
 
 抄録提出: 16 January 2026
 
-プレイベント
+プレ・ポストイベント
 
 いずれも、日本時間午前7:00-8:00、オンライン
 
 | 日        | 内容   |
+| ----------- | -----  |
 | 1/15 (木) |  Pre Event 1: 認知症のコホート研究を読もう！ |
 | 1/29 (木) |  Pre Event 1: 認知症のコホート研究を読もう！ |
 | 2/12 (木) |  Pre Event 2: 認知症の比較研究を読もう！ |
@@ -90,9 +91,12 @@ Anmerkung: Diese Organisation steht nicht in Verbindung mit kooperierenden Forsc
 
 Abstract Due: 16 January 2026
 
+Pre and Post Events
+
 All events: 7:00–8:00 am Japan Standard Time, online
 
 | Date        | Content   |
+| ----------- | -----  |
 | 15 Jan (Thu) |  Pre Event 1: Let's read cohort studies on dementia! |
 | 29 Jan (Thu) |  Pre Event 1: Let's read cohort studies on dementia! |
 | 12 Feb (Thu) |  Pre Event 2: Reading Comparative Studies on Dementia! |
