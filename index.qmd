@@ -5,7 +5,7 @@ resources:
   - .nojekyll
 ---
 
-[Join ISKR](https://gkb.jp/s/iskr/application) | [ISKR に入会](https://gkb.jp/s/iskr/application)
+[Join ISKR](https://gkb.jp/s/iskr/application) | [ISKR に入会](https://gkb.jp/s/iskr/application) (will be available soon)
 
 # Conference
 
@@ -42,10 +42,66 @@ Anmerkung: Diese Organisation steht nicht in Verbindung mit kooperierenden Forsc
 注：本会非日本学术会议协力学術研究団体
 :::
 
-## Key Dates
+# Key Dates
 
-Abstract Due: 12 December 2025
+::: {.panel-tabset}
+## 日 {.unnumbered}
 
-Regitration: 4 March 2026
+抄録提出: 16 January 2026
 
-Conference: 11-13 March 2026
+プレイベント
+
+いずれも、日本時間午前7:00-8:00、オンライン
+
+| 日        | 内容   |
+| 1/15 (木) |  Pre Event 1: 認知症のコホート研究を読もう！ |
+| 1/29 (木) |  Pre Event 1: 認知症のコホート研究を読もう！ |
+| 2/12 (木) |  Pre Event 2: 認知症の比較研究を読もう！ |
+| 2/26 (木) |  Pre Event 2: 認知症の比較研究を読もう！ |
+| 3/12 (木) |  Post Event: 認知症のメタ分析研究を読もう！ |
+| 3/19 (木) |  Post Event: 認知症のメタ分析研究を読もう！ |
+
+
+登録: 10 March 2026
+
+大会開催日: 10-11 March 2026
+
+3月10日（火）
+
+| 時間        | 内容   |
+| ----------- | -----  |
+| 13:00-15:00 | 基調講演: 松ケ平朝菜（福井県介護福祉士会理事）|
+|             | 「外国人介護職員の思い」|
+| 15:00-17:00 | 研究発表 1 |
+| 17:00-17:30 | 認知症の遠隔医療およびケア提供　報告会 |
+|             | 馬場美彦（東京都健康長寿医療センター、医学博士） |
+| 17:30-19:00 | 懇親会 |
+
+＜3月11日（水）＞
+10:00-12:00  研究発表 2: 2名程度を想定
+13:00-15:00  外国人セッション: 日本での介護を語り合う
+
+| 時間        | 内容   |
+| ----------- | -----  |
+| 10:00-12:00 | 研究発表 2 |
+| 13:00-15:00 | 外国人セッション: 日本での介護を語り合う |
+
+## En {.unnumbered}
+
+Abstract Due: 16 January 2026
+
+All events: 7:00–8:00 am Japan Standard Time, online
+
+| Date        | Content   |
+| 15 Jan (Thu) |  Pre Event 1: Let's read cohort studies on dementia! |
+| 29 Jan (Thu) |  Pre Event 1: Let's read cohort studies on dementia! |
+| 12 Feb (Thu) |  Pre Event 2: Reading Comparative Studies on Dementia! |
+| 26 Feb (Thu) |  Pre Event 2: Reading Comparative Studies on Dementia! |
+| 12 Mar (Thu) |  Post Event: Reading Meta-Analysis Studies on Dementia! |
+| 19 Mar (Thu) |  Post Event: Reading Meta-Analysis Studies on Dementia! |
+
+
+Regitration: 10 March 2026
+
+Conference: 10-11 March 2026
+:::
