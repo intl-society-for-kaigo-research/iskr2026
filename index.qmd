@@ -7,6 +7,9 @@ resources:
 
 [Join ISKR](https://gkb.jp/s/iskr/application) | [ISKR に入会](https://gkb.jp/s/iskr/application) (will be available soon)
 
+
+
+
 # Conference
 
 ::: {.panel-tabset}
@@ -16,11 +19,25 @@ International Society for Kaigo Research
 
 Conference Registration Fee: Free of charge
 
+Steps
+
+* [Join ISKR](https://gkb.jp/s/iskr/application)
+* Or [Login](https://gkb.jp/s/iskr/login)
+* [Register ISKR2026](https://gkb.jp/s/iskr/seminar/522)
+* [Send Abstract](https://gkb.jp/s/iskr/seminar/522)
+
 ## 日 {.unnumbered}
 
 国際介護研究会
 
 研究会参加費: 無料
+
+* [ISKR に入会](https://gkb.jp/s/iskr/application)
+* 入会済みの方は [Login](https://gkb.jp/s/iskr/login)
+* [ISKR2026 に登録](https://gkb.jp/s/iskr/seminar/522)
+* [Abstract を送信](https://gkb.jp/s/iskr/seminar/522)
+
+Abstract は、英語もご用意ください。英語版がない場合、事務局で作成します。
 
 注: この会は、日本学術会議協力学術研究団体ではありません。
 
