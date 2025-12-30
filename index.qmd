@@ -5,26 +5,16 @@ resources:
   - .nojekyll
 ---
 
-[Join ISKR](https://gkb.jp/s/iskr/application) | [ISKR に入会](https://gkb.jp/s/iskr/application) (will be available soon)
+[Join ISKR](https://gkb.jp/s/iskr/application) | [ISKR に入会](https://gkb.jp/s/iskr/application)
+
+<a href="ISKR2026.pdf" target="_blank">Download Flyer</a> | <a href="ISKR2026.pdf" target="_blank">チラシをダウンロード</a>
 
 
-
+![ISKR2026](ISKR2026.jpg){width=20%;height=20%}
 
 # Conference
 
 ::: {.panel-tabset}
-## En {.unnumbered}
-
-International Society for Kaigo Research
-
-Conference Registration Fee: Free of charge
-
-Steps
-
-* [Join ISKR](https://gkb.jp/s/iskr/application)
-* Or [Login](https://gkb.jp/s/iskr/login)
-* [Register ISKR2026](https://gkb.jp/s/iskr/seminar/522)
-* [Send Abstract](https://gkb.jp/s/iskr/seminar/522)
 
 ## 日 {.unnumbered}
 
@@ -41,6 +31,19 @@ Abstract は、英語もご用意ください。英語版がない場合、事�
 
 注: この会は、日本学術会議協力学術研究団体ではありません。
 
+## En {.unnumbered}
+
+International Society for Kaigo Research
+
+Conference Registration Fee: Free of charge
+
+Steps
+
+* [Join ISKR](https://gkb.jp/s/iskr/application)
+* Or [Login](https://gkb.jp/s/iskr/login)
+* [Register ISKR2026](https://gkb.jp/s/iskr/seminar/522)
+* [Send Abstract](https://gkb.jp/s/iskr/seminar/522)
+
 ## De {.unnumbered}
 
 International Society for Kaigo Research\
@@ -48,7 +51,12 @@ Internationale Gesellschaft für Kaigo-Forschung (Pflegeforschung in Japan)
 
 Konferenzbeitrag: Gebührenfrei
 
-Anmerkung: Diese Organisation steht nicht in Verbindung mit kooperierenden Forschungsgruppen des japanischen Wissenschaftsrats
+Steps
+
+* [Join ISKR](https://gkb.jp/s/iskr/application)
+* Or [Login](https://gkb.jp/s/iskr/login)
+* [Register ISKR2026](https://gkb.jp/s/iskr/seminar/522)
+* [Send Abstract](https://gkb.jp/s/iskr/seminar/522)
 
 ## 中文 {.unnumbered}
 
@@ -56,7 +64,13 @@ Anmerkung: Diese Organisation steht nicht in Verbindung mit kooperierenden Forsc
 
 会议注册费：全免
 
-注：本会非日本学术会议协力学術研究団体
+Steps
+
+* [Join ISKR](https://gkb.jp/s/iskr/application)
+* Or [Login](https://gkb.jp/s/iskr/login)
+* [Register ISKR2026](https://gkb.jp/s/iskr/seminar/522)
+* [Send Abstract](https://gkb.jp/s/iskr/seminar/522)
+
 :::
 
 # Key Dates
