@@ -78,7 +78,7 @@ Steps
 ::: {.panel-tabset}
 ## 日 {.unnumbered}
 
-抄録提出: 16 January 2026
+抄録提出: <del>16 January 2026</del> 2026年1月31日
 
 プレ・ポストイベント
 
@@ -120,7 +120,7 @@ Steps
 
 ## En {.unnumbered}
 
-Abstract Due: 16 January 2026
+Abstract Due: <del>16 January 2026</del> 31 January 2026
 
 Pre and Post Events
 
