@@ -5,9 +5,13 @@ resources:
   - .nojekyll
 ---
 
+<a href="ISKR2026.pdf" target="_blank">Download Flyer</a> | <a href="ISKR2026.pdf" target="_blank">チラシをダウンロード</a>
+
+
 [Join ISKR](https://gkb.jp/s/iskr/application) | [ISKR に入会](https://gkb.jp/s/iskr/application)
 
-<a href="ISKR2026.pdf" target="_blank">Download Flyer</a> | <a href="ISKR2026.pdf" target="_blank">チラシをダウンロード</a>
+
+[Subit Abstract](https://gkb.jp/s/iskr/seminar/522) | [演題を投稿](https://gkb.jp/s/iskr/seminar/522)
 
 
 ![ISKR2026](ISKR2026.jpg){width=20%;height=20%}
@@ -109,14 +113,12 @@ Steps
 |             | 馬場美彦（東京都健康長寿医療センター、医学博士） |
 | 17:30-19:00 | 懇親会 |
 
-＜3月11日（水）＞
-10:00-12:00  研究発表 2: 2名程度を想定
-13:00-15:00  外国人セッション: 日本での介護を語り合う
+3月11日（水）
 
 | 時間        | 内容   |
 | ----------- | -----  |
-| 10:00-12:00 | 研究発表 2 |
-| 13:00-15:00 | 外国人セッション: 日本での介護を語り合う |
+| 10:00-12:00 | 外国人セッション: 日本での介護を語り合う |
+| 13:00-15:00 | 研究発表 2 |
 
 ## En {.unnumbered}
 
@@ -139,4 +141,23 @@ All events: 7:00–8:00 am Japan Standard Time, online
 Regitration: 10 March 2026
 
 Conference: 10-11 March 2026
+
+3月10日（火）
+
+| Time        | Programme   |
+| ----------- | -----  |
+| 13:00-15:00 | What foreign caregivers think and feel |
+|             | Asana Matsugahira (Board Member, Fukui Caregiver Association) |
+| 15:00-17:00 | Oral Presentation 1 |
+| 17:00-17:30 | Remote Medicine and Caregiving for Dementia |
+|             | Dr. Yoshihiko Baba (Tokyo Metropolitan Institude for Geriatrics and Gerontology) |
+| 17:30-19:00 | Conference Dinner |
+
+3月11日（水）
+
+| Time        | Programme   |
+| ----------- | -----  |
+| 10:00-12:00 | oreigners' Session: Discussing Care in Japan |
+| 13:00-15:00 | Oral Presentation 2 |
+
 :::
