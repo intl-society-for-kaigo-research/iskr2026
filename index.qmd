@@ -82,7 +82,7 @@ Steps
 ::: {.panel-tabset}
 ## 日 {.unnumbered}
 
-抄録提出: <del>16 January 2026</del> 2026年1月31日
+抄録提出: 2026年2月15日
 
 プレ・ポストイベント
 
@@ -118,11 +118,13 @@ Steps
 | 時間        | 内容   |
 | ----------- | -----  |
 | 10:00-12:00 | 外国人セッション: 日本での介護を語り合う |
+|             | 登壇者 |
+|             | イェン (ベトナム) |
 | 13:00-15:00 | 研究発表 2 |
 
 ## En {.unnumbered}
 
-Abstract Due: <del>16 January 2026</del> 31 January 2026
+Abstract Due: 15 February 2026
 
 Pre and Post Events
 
@@ -157,7 +159,9 @@ Conference: 10-11 March 2026
 
 | Time        | Programme   |
 | ----------- | -----  |
-| 10:00-12:00 | oreigners' Session: Discussing Care in Japan |
+| 10:00-12:00 | Foreigners' Session: Discussing Care in Japan |
+|             | Speaker |
+|             | Yến NaNy's (Vietnam) |
 | 13:00-15:00 | Oral Presentation 2 |
 
 :::

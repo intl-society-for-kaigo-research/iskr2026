@@ -2,5 +2,52 @@
 title: "Abstracts"
 ---
 
-## Presenter
+# Presentation
 
+## 10 March First
+
+
+「実感」をデータで裏付ける 当事者研究者からのVAS Slider 開発と環境因子相関分析の現在 I
+
+Substantiating 'Subjective Experience' with Data: Development of the VAS Slider and Current Status of Environmental Factor Correlation Analysis by a Patient-Researcher I
+
+keywords: 気象病,線維筋痛症,VAS 
+
+::: {.panel-tabset}
+
+## 日 {.unnumbered}
+
+本研究は、線維筋痛症を有する当事者研究者自身を対象に、疼痛と気象要因の関連を当事者研究の手法で検討した。四季を通じた163日間のアナログ記録では、気圧と疼痛（VAS）との間に統計学的相関は認められなかったが、春季から梅雨期にかけて疼痛や随伴症状の増悪がみられ、季節変化や自律神経の影響が示唆された。後半ではIoTデバイス「VAS Slider」を用い、室内の気圧・温湿度とVAS値を連続記録し、生活環境下での症状変動を時系列で可視化することに成功した。当事者研究とデジタルツールの併用は、セルフマネジメントや気象病研究の新たな可能性を示すと考えられる。
+
+## En {.unnumbered}
+
+This study investigated the relationship between pain and meteorological factors using participant-led research methods, focusing on participants with fibromyalgia themselves. Analog records spanning 163 days across all seasons showed no statistically significant correlation between atmospheric pressure and pain (VAS). However, exacerbations of pain and associated symptoms were observed from spring through to the rainy season, suggesting influences from seasonal changes and the autonomic nervous system. In the latter part, the IoT device ‘VAS Slider’ was used to continuously record indoor atmospheric pressure, temperature, humidity, and VAS values, successfully visualising symptom fluctuations in daily living environments over time. The combined use of participant-led research and digital tools is considered to demonstrate new possibilities for self-management and research into weather-related illnesses.
+
+:::
+
+## 10 March Second
+
+「実感」をデータで裏付ける当事者研究者からのVAS Slider開発と環境因子相関分析の現在 II
+
+Substantiating 'Subjective Experience' with Data: Development of the VAS Slider and Current Status of Environmental Factor Correlation Analysis by a Patient-Researcher II
+
+keywords: Visual Analogue Scale, VAS Slider, IoT, fibromyalgia, environmental factors, self-monitoring
+
+::: {.panel-tabset}
+
+## 日 {.unnumbered}
+
+
+本研究は，重度線維筋痛症患者の記録負担を軽減し，疼痛と環境因子の同期データを取得するIoTデバイス「VAS Slider」の開発と検証を目的とする。Raspberry Piを用いたプロトタイプによる実証実験データを探索的解析（EDA）した結果，疼痛(VAS)は気圧の絶対値よりも，暑さ指数(WBGT)や総揮発性有機化合物(eTVOC)と強い相関を示した。特に変化率解析では，気圧の低下局面やeTVOCの急上昇が疼痛記録と連動する傾向が確認された。本システムは、従来の気象因子に加え，化学的ストレスや「変化の勢い」が疼痛トリガーとなる可能性を可視化する有効なツールである。
+
+## En {.unnumbered}
+
+This study aims to develop and validate the “VAS Slider”, an IoT device designed to reduce the recording burden for patients with severe fibromyalgia while acquiring synchronised data on pain and environmental factors. Exploratory data analysis (EDA) of prototype experimental data using Raspberry Pi revealed that pain (VAS) showed a stronger correlation with the heat index (WBGT) and total volatile organic compounds (eTVOC) than with the absolute value of atmospheric pressure. Specifically, rate-of-change analysis confirmed a tendency for pain records to correlate with phases of falling atmospheric pressure and sudden increases in eTVOC. This system serves as an effective tool for visualising the potential for chemical stress and the “momentum of change” to act as pain triggers, in addition to conventional meteorological factors.
+
+:::
+
+
+## 11 March First
+
+
+## 11 March Second
