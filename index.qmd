@@ -90,7 +90,7 @@ Steps
 いずれも、日本時間午前7:00-8:00、オンライン
 
 | 日        | 内容   | 登録 |
-| ----------- | -----  | --- |
+| - | -----  | - |
 | 1/15 (木) |  Pre Event 1: 認知症のコホート研究を読もう！ | [登録](https://iskr.peatix.com/view) |
 | 1/29 (木) |  Pre Event 1: 認知症のコホート研究を読もう！ | [登録](https://iskr250129.peatix.com/view)  |
 | 2/12 (木) |  Pre Event 2: 認知症の比較研究を読もう！ | |
@@ -106,7 +106,7 @@ Steps
 3月10日（火）
 
 | 時間        | 内容   |
-| ----------- | -----  |
+| - | -----  |
 | 13:00-15:00 | 基調講演: 松ケ平朝菜（福井県介護福祉士会理事）|
 |             | 「外国人介護職員の思い」|
 | 15:00-17:00 | 研究発表 1 |
@@ -119,7 +119,7 @@ Steps
 3月11日（水）
 
 | 時間        | 内容   |
-| ----------- | -----  |
+| - | -----  |
 | 10:00-12:00 | 外国人セッション: 日本での介護を語り合う |
 |             | 登壇者 |
 |             | イェン (東京在住, ベトナム出身) |
@@ -138,7 +138,7 @@ Pre and Post Events
 All events: 7:00–8:00 am Japan Standard Time, online
 
 | Date        | Content   | Registration |
-| ----------- | -----  | -- |
+| - | -----  | - |
 | 15 Jan (Thu) |  Pre Event 1: Let's read cohort studies on dementia! | [Registration](https://iskr.peatix.com/view) |
 | 29 Jan (Thu) |  Pre Event 1: Let's read cohort studies on dementia! | [Registration](https://iskr250129.peatix.com/view) |
 | 12 Feb (Thu) |  Pre Event 2: Reading Comparative Studies on Dementia! | |
@@ -154,7 +154,7 @@ Conference: 10-11 March 2026
 3月10日（火）
 
 | Time        | Programme   |
-| ----------- | -----  |
+| - | -----  |
 | 13:00-15:00 | What foreign caregivers think and feel |
 |             | Asana Matsugahira (Board Member, Fukui Caregiver Association) |
 | 15:00-17:00 | Oral Presentation 1 |
@@ -167,7 +167,7 @@ Conference: 10-11 March 2026
 3月11日（水）
 
 | Time        | Programme   |
-| ----------- | -----  |
+| - | -----  |
 | 10:00-12:00 | Foreigners' Session: Discussing Care in Japan |
 |             | Speaker |
 |             | Yến NaNy's (living in Tokyo, from Vietnam) |
