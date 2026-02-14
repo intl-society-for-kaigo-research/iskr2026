@@ -2,6 +2,19 @@
 title: "Committee"
 ---
 
+<a href="ISKR2026.pdf" target="_blank">Download Flyer</a> | <a href="ISKR2026_ja.pdf" target="_blank">チラシ（日本語版）をダウンロード</a>
+
+[Register the meeting without joining the society](https://forms.gle/CD6eiojQ5GrLbZSP9) | [ISKR に入会せずに参加](https://forms.gle/CD6eiojQ5GrLbZSP9)
+
+<hr />
+
+[Join ISKR](https://gkb.jp/s/iskr/application) | [ISKR に入会](https://gkb.jp/s/iskr/application)
+
+[Subit Abstract](https://gkb.jp/s/iskr/seminar/522) | [演題を投稿](https://gkb.jp/s/iskr/seminar/522)
+
+![ISKR2026](ISKR2026.jpg){width=20%;height=20%}
+
+
 - Kazuto Aoki PhD, (Professor, Fukui Prefectural University)
 - Yoshihiko Baba PhD
 - Ikuko Ide

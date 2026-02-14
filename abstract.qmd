@@ -2,11 +2,22 @@
 title: "Abstracts"
 ---
 
+<a href="ISKR2026.pdf" target="_blank">Download Flyer</a> | <a href="ISKR2026_ja.pdf" target="_blank">チラシ（日本語版）をダウンロード</a>
+
+[Register the meeting without joining the society](https://forms.gle/CD6eiojQ5GrLbZSP9) | [ISKR に入会せずに参加](https://forms.gle/CD6eiojQ5GrLbZSP9)
+
+<hr />
+
+[Join ISKR](https://gkb.jp/s/iskr/application) | [ISKR に入会](https://gkb.jp/s/iskr/application)
+
+[Subit Abstract](https://gkb.jp/s/iskr/seminar/522) | [演題を投稿](https://gkb.jp/s/iskr/seminar/522)
+
+![ISKR2026](ISKR2026.jpg){width=20%;height=20%}
+
+
 # Presentation
 
 ## 10 March First
-
-::: {.panel-tabset}
 
 訪問介護事業存続のための一考察
 
@@ -19,6 +30,8 @@ Considerations for the continuation of home care service
 Midori Suminaga (Minamiaso houmonkaigo zigyou kigyou kumiai)
 
 Keywords: home care service, community-based comprehensive care system
+
+::: {.panel-tabset}
 
 ## 日 {.unnumbered}
 
@@ -40,7 +53,7 @@ Keywords: home care service, community-based comprehensive care system
 
 ## 10 March Second
 
-認知症介護者支援介入が介護負担に与える影響のメタ分析 26 文字, 1 words
+認知症介護者支援介入が介護負担に与える影響のメタ分析
 
 青木 和人 (福井県立大学)
 

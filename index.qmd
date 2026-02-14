@@ -110,6 +110,8 @@ Steps
 | 13:00-15:00 | 基調講演: 松ケ平朝菜（福井県介護福祉士会理事）|
 |             | 「外国人介護職員の思い」|
 | 15:00-17:00 | 研究発表 1 |
+| | 訪問介護事業存続のための一考察 |
+| | 認知症介護者支援介入が介護負担に与える影響のメタ分析 |
 | 17:00-17:30 | 認知症の遠隔医療およびケア提供　報告会 |
 |             | 馬場美彦（東京都健康長寿医療センター、医学博士） |
 | 17:30-19:00 | 懇親会 |
@@ -124,6 +126,8 @@ Steps
 |             | クマリ (熊本在住, ネパール出身) |
 |             | ラビンドゥ (熊本在住, スリランカ出身) |
 | 13:00-15:00 | 研究発表 2 |
+| | 「実感」をデータで裏付ける 当事者研究者からのVAS Slider 開発と環境因子相関分析の現在 I |
+| | 「実感」をデータで裏付ける 当事者研究者からのVAS Slider 開発と環境因子相関分析の現在 II |
 
 ## En {.unnumbered}
 
@@ -154,6 +158,8 @@ Conference: 10-11 March 2026
 | 13:00-15:00 | What foreign caregivers think and feel |
 |             | Asana Matsugahira (Board Member, Fukui Caregiver Association) |
 | 15:00-17:00 | Oral Presentation 1 |
+| | Considerations for the continuation of home care service |
+| | Meta-Analysis of the Effects of Dementia Caregiver Support Interventions on Caregiver Burden |
 | 17:00-17:30 | Remote Medicine and Caregiving for Dementia |
 |             | Dr. Yoshihiko Baba (Tokyo Metropolitan Institude for Geriatrics and Gerontology) |
 | 17:30-19:00 | Conference Dinner |
