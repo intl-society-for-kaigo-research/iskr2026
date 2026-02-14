@@ -5,14 +5,15 @@ resources:
   - .nojekyll
 ---
 
-<a href="ISKR2026.pdf" target="_blank">Download Flyer</a> | <a href="ISKR2026.pdf" target="_blank">チラシをダウンロード</a>
+<a href="ISKR2026.pdf" target="_blank">Download Flyer</a> | <a href="ISKR2026_ja.pdf" target="_blank">チラシ（日本語版）をダウンロード</a>
 
+[Register the meeting without joining the society](https://forms.gle/CD6eiojQ5GrLbZSP9) | [ISKR に入会せずに参加](https://forms.gle/CD6eiojQ5GrLbZSP9)
+
+<hr />
 
 [Join ISKR](https://gkb.jp/s/iskr/application) | [ISKR に入会](https://gkb.jp/s/iskr/application)
 
-
 [Subit Abstract](https://gkb.jp/s/iskr/seminar/522) | [演題を投稿](https://gkb.jp/s/iskr/seminar/522)
-
 
 ![ISKR2026](ISKR2026.jpg){width=20%;height=20%}
 
@@ -119,7 +120,9 @@ Steps
 | ----------- | -----  |
 | 10:00-12:00 | 外国人セッション: 日本での介護を語り合う |
 |             | 登壇者 |
-|             | イェン (ベトナム) |
+|             | イェン (東京在住, ベトナム出身) |
+|             | クマリ (熊本在住, ネパール出身) |
+|             | ラビンドゥ (熊本在住, スリランカ出身) |
 | 13:00-15:00 | 研究発表 2 |
 
 ## En {.unnumbered}
@@ -161,7 +164,9 @@ Conference: 10-11 March 2026
 | ----------- | -----  |
 | 10:00-12:00 | Foreigners' Session: Discussing Care in Japan |
 |             | Speaker |
-|             | Yến NaNy's (Vietnam) |
+|             | Yến NaNy's (living in Tokyo, from Vietnam) |
+|             | Kumari (living in Kumamoto, from Nepal) |
+|             | Ravindu (living in Kumamoto, from Sri Lanka) |
 | 13:00-15:00 | Oral Presentation 2 |
 
 :::
