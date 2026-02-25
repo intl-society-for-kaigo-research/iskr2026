@@ -53,6 +53,32 @@ Keywords: home care service, community-based comprehensive care system
 
 ## 10 March Second
 
+パーキンソン病当事者がマスターズ陸上全国大会で記録を残すことを目標に、競技期に食事調整を行いコンディションを整えた一例 ― 当事者研究としての栄養管理 ―
+
+山口美佐, 浦田あづさ 
+
+Keywords: 
+
+A case study of nutritional management as participant research: A person with Parkinson's disease who adjusted their diet during their competitive period to achieve peak condition, aiming to set records at the Masters Athletics National Championships
+
+Misa Yamaguchi, Azusa Urata
+
+Keywords: 
+
+::: {.panel-tabset}
+
+## 日 {.unnumbered}
+
+パーキンソン病（以下PD）は運動機能低下により、運動やスポーツ実践が困難と捉えられがちである。本報告は、PD診断11年目の当事者であり管理栄養士でもある一症例が、食事管理を行うことでマスターズ陸上全国大会に出場した実践例である。大会7日前よりエネルギー不足を防ぐ食事配分、補食、水分摂取、服薬タイミングを考慮した調整を行った。競技期を通じて体調、体組成、血液指標は安定し、重大な有害事象なく競技参加が可能であった。本症例は、PDでも競技レベルには個人差があるものの、食事管理によりスポーツ実践の可能性が広がることを示唆する。
+
+## En {.unnumbered}
+
+Parkinson's disease (PD) is often perceived as making physical activity and sports participation difficult due to impaired motor function. This report details the case of an individual diagnosed with PD for 11 years, who is also a registered dietitian, successfully competing in the National Masters Athletics Championships through dietary management. Seven days prior to the competition, adjustments were made to prevent energy deficiency, considering meal distribution, supplementary snacks, fluid intake, and medication timing. Throughout the competition period, physical condition, body composition, and blood parameters remained stable, enabling participation without significant adverse events. This case suggests that while athletic ability varies among individuals with PD, dietary management can expand the possibilities for sports participation.
+
+:::
+
+## 10 March Third
+
 認知症介護者支援介入が介護負担に与える影響のメタ分析
 
 青木 和人 (福井県立大学)
@@ -122,11 +148,11 @@ keywords: Visual Analogue Scale, VAS Slider, IoT, fibromyalgia, environmental fa
 
 ## 日 {.unnumbered}
 
-本研究は，重度線維筋痛症における痛みと環境因子の関係を解明するため，気象・環境データの連続自動計測に加え，疼痛変化を自覚した際にVASを記録できるデバイス「VAS Slider」を開発し，R Shinyによる統合解析システム「ISKR 2026」を構築した。本システムは，標準化オーバーレイや2軸フェーズ解析に加え，時間遅れ相互相関解析（CCF）や分布ラグ非線形モデル（DLNM）を実装し，環境因子の遅延効果や累積リスクの定量的評価を可能にした。解析の結果、特定の環境条件下での痛みの遅延リスクや変動パターンが可視化された。本デバイスと解析フローの統合は，個別化された疼痛予報や適切な環境介入の最適化に有用であることが示唆された。
+本研究は，線維筋痛症の当事者研究として，「痛み」と「見えない環境因子」の関係解明を目的に，環境データの連続計測と直感的なVAS記録を統合したIoTデバイス「VAS Slider」を開発した。さらにR ShinyによるWeb解析システムを構築し，標準化オーバーレイや分布ラグ非線形モデル（DLNM）等を実装することで，環境因子の遅延効果や累積リスクの可視化を実現した。本系は，診断用ではなく，個人の疼痛予報や環境調整によるQOL向上を支援するセルフモニタリング基盤として有用であることが示唆された。
 
 ## En {.unnumbered}
 
-To elucidate the dynamic relationship between pain and environmental factors in severe fibromyalgia, we developed the "VAS Slider"—a device combining continuous environmental sensing with user-initiated VAS recording triggered by perceived pain changes—and constructed the "ISKR 2026" integrated analysis system using R Shiny. This system implements standardized overlay, dual-axis Phase Analysis, Cross-Correlation Function (CCF), and Distributed Lag Non-linear Models (DLNM), enabling quantitative evaluation of the delayed effects and cumulative risks of environmental factors. The analysis successfully visualized delayed pain risks and fluctuation patterns under specific environmental conditions. Our findings suggest that integrating this device with the analysis workflow is useful for personalized pain forecasting and optimizing environmental interventions.
+As part of a patient-led study on severe fibromyalgia, we developed the "VAS Slider"—an IoT device that integrates continuous sensing of "invisible environmental factors" with intuitive VAS recording—and constructed a web-based analysis system using R Shiny. By implementing Standardized Overlay, Cross-Correlation Function (CCF), and Distributed Lag Non-linear Models (DLNM), we visualized the delayed effects and cumulative risks of environmental factors on pain. These results suggest that this system serves as a valuable self-monitoring platform for personalized pain forecasting and environmental adjustment to improve QOL.
 
 :::
 

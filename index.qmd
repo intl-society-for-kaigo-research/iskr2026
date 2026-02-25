@@ -32,9 +32,13 @@ resources:
 * [ISKR2026 に登録](https://gkb.jp/s/iskr/seminar/522)
 * [Abstract を送信](https://gkb.jp/s/iskr/seminar/522)
 
-Abstract は、英語もご用意ください。英語版がない場合、事務局で作成します。
+字数制限は300字程度。Abstract は、英語もご用意ください。英語版がない場合、事務局で作成します。
 
 注: この会は、日本学術会議協力学術研究団体ではありません。
+
+オンサイト会場: AOSSA 福井 6F (福井市手寄1丁目4番1号)
+
+オンライン会場: Zoom 情報は、3/9 に登録メールアドレスに送ります。
 
 ## En {.unnumbered}
 
@@ -49,32 +53,9 @@ Steps
 * [Register ISKR2026](https://gkb.jp/s/iskr/seminar/522)
 * [Send Abstract](https://gkb.jp/s/iskr/seminar/522)
 
-## De {.unnumbered}
+On-Site: AOSSA Fukui 6F (Teyori 1-4-1, Fukui, Japan)
 
-International Society for Kaigo Research\
-Internationale Gesellschaft für Kaigo-Forschung (Pflegeforschung in Japan)
-
-Konferenzbeitrag: Gebührenfrei
-
-Steps
-
-* [Join ISKR](https://gkb.jp/s/iskr/application)
-* Or [Login](https://gkb.jp/s/iskr/login)
-* [Register ISKR2026](https://gkb.jp/s/iskr/seminar/522)
-* [Send Abstract](https://gkb.jp/s/iskr/seminar/522)
-
-## 中文 {.unnumbered}
-
-国际护理研究协会
-
-会议注册费：全免
-
-Steps
-
-* [Join ISKR](https://gkb.jp/s/iskr/application)
-* Or [Login](https://gkb.jp/s/iskr/login)
-* [Register ISKR2026](https://gkb.jp/s/iskr/seminar/522)
-* [Send Abstract](https://gkb.jp/s/iskr/seminar/522)
+Online: Zoom information will be sent on 9 March to the registered email address.
 
 :::
 
